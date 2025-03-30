@@ -1,16 +1,13 @@
-# 🚀 Welcome to Your Project
+# 🚀 Welcome to MY Project
 
-## 📌 Project Information
-
-### 🔗 URL
-[Project Dashboard](https://yourprojecturl.com)
+## 📌 Project Link: https://block-chain-final-pearl.vercel.app
 
 ## 🛠️ How to Edit This Code
 
 There are multiple ways to modify and enhance your application:
 
 ### 1️⃣ Online Platform
-- Visit the project dashboard at [Project Dashboard](https://yourprojecturl.com)
+- Visit the project dashboard at [[Project Dashboard](https://yourprojecturl.com)](https://block-chain-final-pearl.vercel.app)
 - Make modifications directly through the web interface
 - Changes are automatically committed to the repository
 
